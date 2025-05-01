@@ -12,9 +12,6 @@ I'm a passionate Fullstack web development with experience in React and Django. 
 - ⚡ Fun fact: When not debugging, i'm at the gym
 
 
-![Banner Image](your_banner_image_url_here)
-
-
 ## My Skills 🧠
 
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
