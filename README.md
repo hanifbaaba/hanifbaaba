@@ -1,7 +1,7 @@
  Hi there, I'm Hanif!👋
 
 -About Me 🚀
-I'm a passionate Fullstack web development with experience in React and Django. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+I'm a passionate Fullstack Engineer with experience in React and Django. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
 - 🔭 I’m currently working on A React AI Chatbot
 - 🌱 I’m currently learning Python framework Django
